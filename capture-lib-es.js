@@ -1,3 +1,10 @@
+/*!
+* capture-lib
+* (c) 2026 Christian Malouf
+* Released under the MIT License.
+*
+* Uses JSZip, used under the MIT license option.
+*/
 //#region src/capture-ui.js
 var e = class extends HTMLElement {
 	connectedCallback() {
